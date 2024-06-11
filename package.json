@@ -1,0 +1,19 @@
+{
+  "name": "npm-pkg-pub",
+  "version": "0.0.1",
+  "description": "npm package publish poc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MSAJAL07/npm-pkg-pub-poc.git"
+  },
+  "author": "Sajal Mishra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MSAJAL07/npm-pkg-pub-poc/issues"
+  },
+  "homepage": "https://github.com/MSAJAL07/npm-pkg-pub-poc#readme"
+}
